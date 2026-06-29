@@ -9,7 +9,7 @@ This organization centralizes the work on demonstrating the use cases for this b
 ### Implementation
 
 - Bitcoin Inquisition: [#86](https://github.com/bitcoin-inquisition/bitcoin/pull/86) (`OP_INTERNALKEY`), [#87](https://github.com/bitcoin-inquisition/bitcoin/pull/87) (`OP_CHECKSIGFROMSTACK`), [#100](https://github.com/bitcoin-inquisition/bitcoin/pull/100) (`OP_TEMPLATEHASH`).
-- Bitcoin Core master: *TODO: PR the full bundle to the repo forked in this organization*.
+- Bitcoin Core master: [full BIP 448 implementation (no activation)](https://github.com/bip448/bitcoin/pull/1).
 
 The full bundle will be usable on the main Signet test network with the upcoming release of Bitcoin Inquisition.
 
@@ -23,7 +23,7 @@ The full bundle will be usable on the main Signet test network with the upcoming
 
 - Close [last pinning vector](https://github.com/lightning/bolts/issues/1221#issuecomment-2622221187) in Lightning: *TODO*.
 - Drop HTLC signatures in Lightning: *TODO*.
-- LN-symmetry with BIP 448: BOLT specifications, Core-Lightning implementation. \[TODO: PR both of those in this org and link them here\]
+- LN-symmetry with BIP 448: [BOLT specifications](https://github.com/bip448/bolts/pull/1), [Core-Lightning implementation](https://github.com/bip448/lightning/pull/1).
 - Ark with `OP_TEMPLATEHASH`: *TODO*.
 - Erk detailed specifications: *TODO*.
 
