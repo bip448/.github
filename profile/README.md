@@ -17,7 +17,7 @@ The full bundle will be usable on the main Signet test network with the upcoming
 
 - BIP 448 integration in Miniscript / descriptors: [specifications][extension-tooling], Bitcoin Core implementation ([WIP](https://github.com/bitcoin-inquisition/bitcoin/pull/108)).
 - BIP 448 integration in PSBTs: [specifications][extension-tooling], Bitcoin Core implementation ([WIP](https://github.com/bitcoin-inquisition/bitcoin/pull/108)).
-- Various Rust-Bitcoin tooling: *TODO*.
+- Various Rust-Bitcoin tooling: rust-bitcoin integration ([master](https://github.com/bip448/rust-bitcoin/pull/1), [0.32.x](https://github.com/bip448/rust-bitcoin/pull/2)), *TODO: more*.
 
 ### Proof-of-concepts
 
