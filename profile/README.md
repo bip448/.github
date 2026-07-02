@@ -21,8 +21,7 @@ The full bundle will be usable on the main Signet test network with the upcoming
 
 ### Proof-of-concepts
 
-- Close [last pinning vector](https://github.com/lightning/bolts/issues/1221#issuecomment-2622221187) in Lightning: *TODO*.
-- Drop HTLC signatures in Lightning: *TODO*.
+- Close [last pinning vector](https://github.com/lightning/bolts/issues/1221#issuecomment-2622221187) in Lightning: https://github.com/bip448/bolts/pull/2.
 - LN-symmetry with BIP 448: [BOLT specifications](https://github.com/bip448/bolts/pull/1), [Core-Lightning implementation](https://github.com/bip448/lightning/pull/1).
 - Ark with `OP_TEMPLATEHASH`: *TODO*.
 - Erk detailed specifications: *TODO*.
