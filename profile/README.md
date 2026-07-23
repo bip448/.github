@@ -23,7 +23,7 @@ The full bundle will be usable on the main Signet test network with the upcoming
 
 - Close last pinning vector in Lightning: https://github.com/bip448/bolts/pull/2.
 - LN-symmetry with BIP 448: [BOLT specifications](https://github.com/bip448/bolts/pull/1), [Core-Lightning implementation](https://github.com/bip448/lightning/pull/1).
-- Ark with `OP_TEMPLATEHASH`: *TODO*.
+- Ark with `OP_TEMPLATEHASH`: [code branch](https://gitlab.com/ark-bitcoin/bark/-/tree/templatehash), [live demo](https://templatehash.com).
 - Erk detailed specifications: *TODO*.
 
 [bip-448]: https://github.com/bitcoin/bips/blob/master/bip-0448.md
